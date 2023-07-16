@@ -1,0 +1,61 @@
+.about.main {
+    background-color: palevioletred;
+    font-size: 80px;
+    color: blueviolet;
+    padding: 40px;
+    text-align: center;
+}
+
+.about {
+    background-color: palevioletred;
+    font-size: 80px;
+    color: blueviolet;
+    padding: 50px 0px;
+    text-align: center;
+    margin: 0px;
+}
+.title {
+    font-size: 40px;
+    text-align: center;
+}
+dl {
+    display: flex;
+}
+   
+.image,
+.image-text {
+    padding: 6px;
+}
+.image-text {
+    font-size: 30px;
+}
+.bottom-text {
+    text-align: center;
+    font-size: 20px;
+    background-color: palevioletred;
+    color: black;
+}
+.box {
+    
+    display: block;
+    text-align: center;
+    font-size: 80px;
+    font: 200px;
+    color: rgb(0, 0, 0);
+    background-color: white;
+}
+.alert {
+    display: flex;
+    font-size: 80px;
+    padding-left: 900px;
+    background-color: palevioletred;
+    color: blue;
+}
+
+.box {
+    padding: 400px;
+    background-image: url(./istockphoto-612x612.jpg);
+    background-size: cover;
+}
+
+
